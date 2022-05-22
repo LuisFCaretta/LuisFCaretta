@@ -1,6 +1,6 @@
 - 👋 @LuisFCaretta
 - 👀 Estou interessado em trabalho e aprendizado
-- 🌱 No momento, estou aprendendo Python
+- 🌱 No momento, estou aprendendo Python e Django Framework
 - 💞️ Disponível para colaborações
 - 📫 https://www.linkedin.com/in/luis-felipe-712a01178/
 
