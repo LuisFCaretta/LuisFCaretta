@@ -1,6 +1,6 @@
 - 👋 @LuisFCaretta
 - 👀 Estou interessado em trabalho e aprendizado
-- 🌱 No momento, estou aperfeiçoando meus conhecimentos em Python/kivymd
+- 🌱 No momento, estou aperfeiçoando meus conhecimentos em HTML5 e CSS3
 - 💞️ Disponível para colaborações
 - 📫 https://www.linkedin.com/in/luis-felipe-712a01178/
 
