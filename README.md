@@ -9,4 +9,7 @@ LuisFCaretta/LuisFCaretta is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
  Meu primeiro projeto em HTML5 e CSS3:
-  * https://luisfcaretta.github.io/pokedex/
+  - Pokedex:
+    * https://luisfcaretta.github.io/pokedex/
+  - Redes Sociais:
+    * https://luisfcaretta.github.io/projeto-redes-sociais/
