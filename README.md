@@ -1,6 +1,6 @@
 - 👋 @LuisFCaretta
 - 👀 Estou interessado em trabalho e aprendizado
-- 🌱 No momento, estou aperfeiçoando meus conhecimentos em HTML5 e CSS3
+- 🌱 No momento, estou aperfeiçoando meus conhecimentos em Django Rest Framework
 - 💞️ Disponível para colaborações
 - 📫 https://www.linkedin.com/in/luis-felipe-712a01178/
 
